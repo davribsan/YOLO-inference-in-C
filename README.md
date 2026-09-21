@@ -18,7 +18,7 @@ The model currently detects 3 classes:
 
 > The `Plane` and `Bird` classes are included in the code to support a future multiclass retraining. However, the provided model only detects UAVs.
 
-## Result
+## Results
 
 ![Detection result](images/result.png)
 
@@ -41,7 +41,7 @@ Example output of the programme: the image is shown in a window with bounding bo
 │       └── example 2.jpg
 │       └── example 3.jpg
 │       └── example 4.jpg
-│   ├── Expected results             # Screenshots of the expected results after inference (approx.) 
+│   ├── Expected results            # Screenshots of the expected results after inference (approx.) 
 │       └── example 1 result.jpg
 │       └── example 2 result.jpg
 │       └── example 3 result.jpg
