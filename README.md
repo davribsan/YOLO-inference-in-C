@@ -1,4 +1,4 @@
-# YOLO in C
+# YOLO inference in C
 
 C inference of a pretrained YOLOv8n model for UAV detection (two extra classes included in case it is used for multiclass detection).
 
