@@ -20,7 +20,7 @@ The model currently detects 3 classes:
 
 ## Results
 
-![Detection result](images/result.png)
+![Detection result](Images/Expected results/example 1 result.png)
 
 Example output of the programme: the image is shown in a window with bounding boxes, class labels and confidence scores overlaid on each detection.
 
