@@ -1,4 +1,4 @@
-# YOLO in C
+# YOLO inference in C
 
 C inference of a pretrained YOLOv8n model for UAV detection (two extra classes included in case it is used for multiclass detection).
 
@@ -20,7 +20,7 @@ The model currently detects 3 classes:
 
 ## Results
 
-![Detection result](images/result.png)
+![Detection result](Images/Expected%20results/example%201%20result.png)
 
 Example output of the programme: the image is shown in a window with bounding boxes, class labels and confidence scores overlaid on each detection.
 
