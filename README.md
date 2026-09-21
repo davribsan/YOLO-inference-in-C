@@ -115,4 +115,4 @@ A window will open showing the image with bounding boxes, class labels and confi
 
 ## Licence
 
-This project does not include an explicit licence. All rights are reserved by the author, as part of a Master's Thesis (TFM).
+This project does not include an explicit licence. All rights are reserved by the author, as part of a Master's Thesis.
