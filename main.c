@@ -278,5 +278,4 @@ int main(int argc, char** argv){
     return 0;
 }
 
-/*clang "main.c" "inference.c"  -I/usr/local/Cellar/sdl2/2.32.10/include   -I"/Users/usuario/Downloads/onnxruntime-osx-x86_64-1.11.1/include"   -L/usr/local/Cellar/sdl2/2.32.10/lib   -L"/Users/usuario/Downloads/onnxruntime-osx-x86_64-1.11.1/lib"   -lSDL2 -lonnxruntime   -o "main"   -Wl,-rpath,"/Users/usuario/Downloads/onnxruntime-osx-x86_64-1.11.1/lib"
-*/
+
